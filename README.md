@@ -1,7 +1,5 @@
 # Realistic N-Body orbital Mechanics in Unity.
 
-![image](https://github.com/Jacob19999/unity_n-body_runge-kutta/assets/26366586/174beaf3-5455-43b3-a879-f221fb0a1de4)
-
 ![image](https://github.com/Jacob19999/unity_n-body_runge-kutta/assets/26366586/e26cf605-19a7-4018-b004-d6659c37ef93)
 
 # The Planetarium Module
